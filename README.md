@@ -6,4 +6,4 @@ This Currency Converter allows users to convert between different currencies usi
 - **Real-Time Updates:**  Provides real-time conversion results with ExchangeRate API.
 - **Currency Selection:**  Allows users to select both source and target currencies from a dynamically populated list.
  
-  
+   
